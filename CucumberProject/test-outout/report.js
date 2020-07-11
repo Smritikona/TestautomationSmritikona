@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("C:/Users/SmritikonaSukul/eclipse-workspace/FreeCrmBDDFramework/src/main/java/Features/deals.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("C:/Users/SmritikonaSukul/git/TestautomationSmritikona/CucumberProject/src/main/java/Features/deals.feature");
 formatter.feature({
   "line": 1,
   "name": "Deal data creation",
@@ -7,11 +7,11 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 372900,
+  "duration": 294100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 193000,
+  "duration": 243000,
   "status": "passed"
 });
 formatter.scenario({
@@ -86,64 +86,64 @@ formatter.match({
   "location": "DealStepDefnition.user_already_on_login_page()"
 });
 formatter.result({
-  "duration": 19321957100,
+  "duration": 14838328300,
   "status": "passed"
 });
 formatter.match({
   "location": "DealStepDefnition.title_of_login_page_is_free_CRM()"
 });
 formatter.result({
-  "duration": 24300300,
+  "duration": 43539100,
   "status": "passed"
 });
 formatter.match({
   "location": "DealStepDefnition.user_enters_username_and_password(DataTable)"
 });
 formatter.result({
-  "duration": 496021200,
+  "duration": 506059700,
   "status": "passed"
 });
 formatter.match({
   "location": "DealStepDefnition.user_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 8457418700,
+  "duration": 7261110800,
   "status": "passed"
 });
 formatter.match({
   "location": "DealStepDefnition.user_is_on_hopme_page()"
 });
 formatter.result({
-  "duration": 10392000,
+  "duration": 9598100,
   "status": "passed"
 });
 formatter.match({
   "location": "DealStepDefnition.user_moves_to_new_contact_page()"
 });
 formatter.result({
-  "duration": 2033786300,
+  "duration": 2036766500,
   "status": "passed"
 });
 formatter.match({
   "location": "DealStepDefnition.user_enters_contacts_details(DataTable)"
 });
 formatter.result({
-  "duration": 415277200,
+  "duration": 381204800,
   "status": "passed"
 });
 formatter.match({
   "location": "DealStepDefnition.close_the_browser()"
 });
 formatter.result({
-  "duration": 826273800,
+  "duration": 822204800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 82800,
+  "duration": 223300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 98600,
+  "duration": 77800,
   "status": "passed"
 });
 });
